@@ -29,6 +29,6 @@
   "homepage": "https://github.com/binbytes/react-native-simple-modal-picker#readme",
   "peerDependencies": {
     "prop-types": "^15.6.2",
-    "react": "^17.0.1"
+    "react": "*"
   }
 }
